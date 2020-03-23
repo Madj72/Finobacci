@@ -16,12 +16,7 @@ public class EightQueens {
 				{'O','O','O','O','O','O','O','O'},	
 						
 		};
-		////changes
-<<<<<<< HEAD
-		///
-=======
-		// Will
->>>>>>> refs/remotes/origin/master
+
 		Queen  problem = new Queen();
 		if (!problem.solveQueen(board, 0)) {
 			System.out.println("NO SOLUTION");
@@ -29,12 +24,7 @@ public class EightQueens {
 		else {
 			problem.printBoard(board);
 		}
-		// change number one
-		//Ts
+	
 	}	
-<<<<<<< HEAD
- // changes been made 
-=======
-//third change
->>>>>>> refs/remotes/origin/master
+
 }
