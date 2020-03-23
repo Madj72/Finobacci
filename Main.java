@@ -17,7 +17,7 @@ public class EightQueens {
 						
 		};
 		////changes
-		
+		// Will
 		Queen  problem = new Queen();
 		if (!problem.solveQueen(board, 0)) {
 			System.out.println("NO SOLUTION");
