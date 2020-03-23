@@ -26,5 +26,9 @@ public class EightQueens {
 		}
 	
 	}	
+<<<<<<< HEAD
 //Testing again
+=======
+//Changes 29
+>>>>>>> refs/remotes/origin/master
 }
