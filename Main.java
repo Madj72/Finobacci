@@ -28,5 +28,5 @@ public class EightQueens {
 		// change number one
 		//Ts
 	}	
-
+//Second change
 }
