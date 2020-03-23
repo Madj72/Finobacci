@@ -16,6 +16,7 @@ public class EightQueens {
 				{'O','O','O','O','O','O','O','O'},	
 						
 		};
+		////changes
 		
 		Queen  problem = new Queen();
 		if (!problem.solveQueen(board, 0)) {
