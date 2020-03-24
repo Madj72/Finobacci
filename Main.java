@@ -14,7 +14,7 @@ public class EightQueens {
 				{'O','O','O','O','O','O','O','O'},
 				{'O','O','O','O','O','O','O','O'},	
 				{'O','O','O','O','O','O','O','O'},	
-						
+		//hhhhhhhhhhh				
 		};
 
 		Queen  problem = new Queen();
@@ -26,6 +26,9 @@ public class EightQueens {
 		}
 	
 	}	
+<<<<<<< HEAD
+//Testing again
+=======
 //Changes 29
-	//jhjhjhfghfddfsdsd
+>>>>>>> refs/remotes/origin/master
 }
